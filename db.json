@@ -1,3 +1,12 @@
 {
-  "cart": []
+  "cart": [
+    {
+      "categories": "Electronics",
+      "title": "Ergonomic Concrete Ball",
+      "price": 23,
+      "image": "https://api.lorem.space/image/watch?w=640&h=480&r=9222",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "id": 1
+    }
+  ]
 }
